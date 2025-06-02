@@ -1,5 +1,5 @@
 git init
-git remote add origin https://github.com/ditt-användarnamn/digital-garderob.git
+git remote add origin https://github.com/signevallin/digital-garderob.git
 git add .
 git commit -m "Första commit"
 git push -u origin main
